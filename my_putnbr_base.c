@@ -150,5 +150,5 @@ int	main()
   //my_putchar('\n');
 
 
-  
+
 }
